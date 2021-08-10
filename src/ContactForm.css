@@ -1,0 +1,11 @@
+body {
+    padding: 30px 20%;
+}
+h1 {
+    font-size: 2em;
+    text-align: center;
+}
+
+.form-group {
+    padding: 10px;
+}
