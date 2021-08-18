@@ -55,6 +55,8 @@ class ContactForm extends React.Component {
                             <option value="germany">Germany</option>
                             <option value="uk">UK</option>
                             <option value="us">US</option>
+                            <option value="Aus">US</option>
+
                         </select>
                     </div>
                     <input type="submit" value="Submit" className="btn btn-primary" />
