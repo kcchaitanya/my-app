@@ -11,7 +11,7 @@ test('renders Contact Form in App', () => {
   render(<App />);
   const country = screen.getByText('Country:');
   const firstName = screen.getByText('First Name:');
-  const lastName = screen.getByText('Last Name:');
+  const lastName = screen.getByText('Last12 Name:');
   const email = screen.getByText('Email:');
   const submit = screen.getByText('Submit');
 
